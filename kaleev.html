@@ -17,6 +17,7 @@
 <body>
     <p>Аты Калеев Ислам</p>
     <p>Phylosophi</p>
+    <p>cod 6B02201</p>
     <a href="https://kalievislam2005.wixsite.com/my-site-1">Электрондық партфолия</a>
     <h1>Islam Kaleev</h1>
     <img src="islamkaleev.jpeg" alt="Islam Kaleev">
